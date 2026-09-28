@@ -38,4 +38,4 @@ El repositorio incluye scripts SQL para crear la estructura de la base de datos,
 
 Este proyecto corresponde a una entrega académica y su alcance está limitado a los requerimientos planteados en la evaluación.
 
-**Nota:** El código fuente será añadido próximamente. Actualmente se encuentra en proceso de organización y limpieza para su publicación.
+El código fuente será añadido próximamente. Actualmente se encuentra en proceso de organización y limpieza para su publicación.
